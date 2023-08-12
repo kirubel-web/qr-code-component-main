@@ -22,5 +22,7 @@ The designs were created to the following widths:
 
 ### Font
 
-- Family: [Outfit](https://fonts.google.com/specimen/Outfit)
+- Family: [Outfit](https:{
+--White: hsl(0, 0%, 100%);
+--Light gray: hsl(212, 45%, 89%);//fonts.google.com/specimen/Outfit)
 - Weights: 400, 700
