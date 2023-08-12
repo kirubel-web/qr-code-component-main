@@ -28,3 +28,6 @@ body{
 border-radius: 0.625rem;
 box-shadow: 5px 5px 5px rgba(0,0,0,0,3);
 }
+
+.attribution { font-size: 11px; text-align: center; }
+    .attribution a { color: hsl(228, 45%, 44%); }
